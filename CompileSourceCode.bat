@@ -1,0 +1,7 @@
+dotnet build ExpleoDetectAnagram\ExpleoDetectAnagram\ExpleoDetectAnagram.sln
+dotnet build ExpleoFindLinksOnAWebPage\ExpleoFindLinksOnAWebPage.sln
+dotnet build ExpleoCalculatorLevel1\ExpleoCalculatorLevel1.sln
+dotnet build ExpleoCalculatorLevel2\ExpleoCalculatorLevel2.sln
+dotnet build ExpleoCalculatorLevel3\ExpleoCalculatorLevel3.sln
+
+PAUSE

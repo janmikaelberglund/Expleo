@@ -1,0 +1,2 @@
+ExpleoDetectAnagram\ExpleoDetectAnagram\bin\Debug\net5.0\ExpleoDetectAnagram.exe
+PAUSE
